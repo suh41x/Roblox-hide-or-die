@@ -5,7 +5,8 @@
 
 JOIN FOR SUPPORT, BUG REPORTS, SUGGESTIONS AND MORE
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
-discord.gg/qQTjCecMsP
+https://discord.gg/jYqbePp3
+
 
 
 👨‍💼 Hide Or Die Features 👨‍💼
